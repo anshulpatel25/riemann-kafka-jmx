@@ -1,0 +1,1 @@
+{"name" : "kafka-riemann-topic-events","command": "java -jar /data/artifact_store/kafka-topics-broker.jar /data/artifact_store/kafka-topics-broker.yaml" ,"schedule" :"R//PT4M" ,"owner" : "anshul.patel@talentica.com","mem" : "1024"}

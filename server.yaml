@@ -1,0 +1,7 @@
+riemann:
+  host: monitor-000.testhost.net
+  ttl : 300
+
+zookeeper:
+  host: ["zookeeper-000.testhost.net","zookeeper-001.testhost.net","zookeeper-002.testhost.net"]
+  port: 2181
